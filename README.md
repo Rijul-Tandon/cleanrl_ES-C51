@@ -6,8 +6,8 @@ This directory contains implementations of ES-C51 (Expected Sarsa based C51) and
 
 **Title**: ES-C51: Expected Sarsa Based C51 Distributional Reinforcement Learning Algorithm  
 **Authors**: Rijul Tandon, Peter Vamplew, Cameron Foale  
-**Submitted to**: Neural Networks
-**ArXiv Link**: https://doi.org/10.48550/arXiv.2510.15006
+**Published at**: Neural Networks
+**Paper Link**: https://www.sciencedirect.com/science/article/abs/pii/S0893608026007185?via%3Dihub
 
 ## Overview
 
